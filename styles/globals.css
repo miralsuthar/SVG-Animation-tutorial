@@ -1,3 +1,8 @@
+/* add your global tailwind css style here */
+
+:root {
+  --animate-delay: 0.5s;
+}
 html,
 body {
   padding: 0;
